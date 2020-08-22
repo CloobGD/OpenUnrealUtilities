@@ -3,7 +3,7 @@
 The Open Unreal Utilties plugin is a general purpose utility plugin for Unreal Engine 4.
 
 ## Contents
-So far the plugin contains only runtime code apart from some automated tests. These utilities include:
+So far the plugin contains mainly runtime utilities and some automated testing helpers. These utilities include:
 
 - **Camera:** Blueprint utility functions for scene projections and render target handling
 - **Flow Control:** Generic lock and request objects
